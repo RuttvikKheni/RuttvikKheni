@@ -1,7 +1,5 @@
 # Hi, I'm Ruttvik Kheni! 👋🏼
 
-![Profile Picture](https://github.com/RuttvikKheni.png?size=200)
-
 I'm a Fullstack Developer with over 4 years of experience in IT.
 
 ## 🚀 Skills
