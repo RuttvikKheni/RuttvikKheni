@@ -21,7 +21,7 @@ I'm a Fullstack Developer with over 4 years of experience in IT.
 👉 [RoadStr.io](https://app.roadstr.io)
 > Description: A web application for connecting car enthusiasts. Built using ReactJS/NextJS, Redux, Node.js, Typescript, Express, and MongoDB.
 
-👉 [Designed.org](https://designed.org) - [Description of Project 2]
+👉 [Designed.org](https://designed.org) 
 > Description: A community-driven platform for discovering and sharing design resources. Built using ReactJS/NextJS, ContextAPI, Node.js, Typescript, Serverless Framework, and Nhost.
 
 ## 📞 Contact Me
